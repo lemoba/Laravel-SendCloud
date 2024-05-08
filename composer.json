@@ -1,10 +1,10 @@
 {
-  "name": "mail/sendcloud",
+  "name": "ranen1024/sendcloud",
   "license": "MIT",
   "authors": [
     {
-      "name": "mail",
-      "email": "mail@gmail.com"
+      "name": "ranen1024",
+      "email": "ranen1024@gmail.com"
     }
   ],
   "require": {
