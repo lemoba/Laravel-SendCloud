@@ -1,10 +1,10 @@
 {
-  "name": "naux/sendcloud",
+  "name": "mail/sendcloud",
   "license": "MIT",
   "authors": [
     {
-      "name": "NauxLiu",
-      "email": "nauxliu@gmail.com"
+      "name": "mail",
+      "email": "mail@gmail.com"
     }
   ],
   "require": {
